@@ -1,0 +1,1 @@
+Triangulated meshes of the Rhadamanthys terrain on Europa. Subsets of this mesh are used, as well as manually altered to model double ridge terrain in Sorli et al. (2025) (in prep).
